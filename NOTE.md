@@ -2,7 +2,7 @@
 
 **Dataset:** 266 world cities (`data/cities.csv`)  
 **Model:** `sentence-transformers/all-MiniLM-L6-v2` (384-dim)  
-**Team member(s):** [your name here — list all if team]
+**Team member(s):** Mutaz Al Darabseh, Pooyan Shalmashi, Benjamin Benson, Adam Horowitz
 
 ---
 
