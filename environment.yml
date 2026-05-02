@@ -1,0 +1,14 @@
+name: semaxis
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - ipywidgets
+  - pip:
+      - sentence-transformers
